@@ -1,17 +1,25 @@
-# findit
+# FindIt
 
-A new Flutter project.
+FindIt is a Flutter-based college Lost and Found application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User registration and login
+- Lost and found item reporting
+- Search and filtering
+- Item details
+- Contact item owners
+- Messaging and chat
+- Notifications
+- User profile
+- My Items
+- Responsive Flutter UI
+- Provider state management
+- Local data persistence
 
-A few resources to get you started if this is your first Flutter project:
+## Technology
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Provider
+- SharedPreferences
